@@ -1,0 +1,5 @@
+C:\Users\iii\Desktop\ASP.NET\DrinksOrderWeb\DrinkClassLibrary\DrinkClassLibrary\bin\Debug\DrinkClassLibrary.dll
+C:\Users\iii\Desktop\ASP.NET\DrinksOrderWeb\DrinkClassLibrary\DrinkClassLibrary\bin\Debug\DrinkClassLibrary.pdb
+C:\Users\iii\Desktop\ASP.NET\DrinksOrderWeb\DrinkClassLibrary\DrinkClassLibrary\obj\Debug\DrinkClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\ASP.NET\DrinksOrderWeb\DrinkClassLibrary\DrinkClassLibrary\obj\Debug\DrinkClassLibrary.dll
+C:\Users\iii\Desktop\ASP.NET\DrinksOrderWeb\DrinkClassLibrary\DrinkClassLibrary\obj\Debug\DrinkClassLibrary.pdb
